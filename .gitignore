@@ -64,3 +64,8 @@ target/
 !.env.example
 
 robinhood.csv
+*.xml
+*.iml
+clean_trade_data.csv
+*.xlsx
+trade_data.json
